@@ -1,0 +1,21 @@
+date,product,category,region,quantity,revenue,cost,profit
+2024-01-10,Premium Plan,Software,North,156,78000,31200,46800
+2024-01-12,Basic Plan,Software,South,423,42300,16920,25380
+2024-01-15,Enterprise Plan,Software,East,23,115000,46000,69000
+2024-01-18,Premium Plan,Software,West,178,89000,35600,53400
+2024-01-22,Basic Plan,Software,North,401,40100,16040,24060
+2024-01-25,Premium Plan,Software,South,167,83500,33400,50100
+2024-01-28,Enterprise Plan,Software,East,28,140000,56000,84000
+2024-02-02,Basic Plan,Software,West,445,44500,17800,26700
+2024-02-05,Premium Plan,Software,North,189,94500,37800,56700
+2024-02-08,Enterprise Plan,Software,South,25,125000,50000,75000
+2024-02-12,Basic Plan,Software,East,412,41200,16480,24720
+2024-02-15,Premium Plan,Software,West,192,96000,38400,57600
+2024-02-18,Enterprise Plan,Software,North,30,150000,60000,90000
+2024-02-22,Basic Plan,Software,South,434,43400,17360,26040
+2024-02-25,Premium Plan,Software,East,174,87000,34800,52200
+2024-02-28,Enterprise Plan,Software,West,26,130000,52000,78000
+2024-03-03,Basic Plan,Software,North,456,45600,18240,27360
+2024-03-06,Premium Plan,Software,South,195,97500,39000,58500
+2024-03-09,Enterprise Plan,Software,East,32,160000,64000,96000
+2024-03-12,Basic Plan,Software,West,422,42200,16880,25320
